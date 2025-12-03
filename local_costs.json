@@ -1,0 +1,41 @@
+{
+  "localFoodCosts": {
+    "DEL": 1200,
+    "BOM": 1500,
+    "BLR": 1300,
+    "CCU": 1100,
+    "HYD": 1200,
+    "MAA": 1400,
+    "GOI": 1000,
+    "PNQ": 1200,
+    "IXC": 900,
+    "IXB": 800,
+    "IXZ": 1000,
+    "GAU": 1100,
+    "MYQ": 1000,
+    "UDR": 1000,
+    "RISH": 800,
+    "SHIM": 900
+  },
+  "localTravelCosts": {
+    "DEL": 500,
+    "BOM": 600,
+    "BLR": 550,
+    "CCU": 450,
+    "HYD": 500,
+    "MAA": 580,
+    "GOI": 400,
+    "PNQ": 500,
+    "IXC": 350,
+    "IXB": 300,
+    "IXZ": 450,
+    "GAU": 500,
+    "MYQ": 400,
+    "UDR": 400,
+    "RISH": 250,
+    "SHIM": 300
+  }
+}
+
+
+
